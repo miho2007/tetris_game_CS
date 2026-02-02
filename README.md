@@ -6,20 +6,11 @@ This project demonstrates **basic game logic**, **piece rotation**, **line clear
 
 ## 🧩 Features
 
-- Classic Tetris gameplay
-- Rotating and dropping pieces
-- Line clearing
-- Score tracking
-- Simple console-based interface
-- Written in clean, easy-to-read C# code
-
-## 🗂 Project Structure
-
-tetris-C-game-/
-├── main.cs # Main game logic
-├── tetris-C-game-.csproj # C# project file
-└── packages.lock.json # Dependency lock file
-
+- Console-based Tetris gameplay
+- Tetromino shapes: I, O, T, L, Z
+- Randomly colored blocks
+- Line clearing with score tracking
+- Game over detection
 
 
 ## ⚙️ Requirements
