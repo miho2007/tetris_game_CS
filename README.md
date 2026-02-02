@@ -15,7 +15,7 @@ This project demonstrates **basic game logic**, **piece rotation**, **line clear
 
 ## ⚙️ Requirements
 
-- [.NET SDK 5.0+](https://dotnet.microsoft.com/en-us/download)
+- [.NET SDK 10.0+](https://dotnet.microsoft.com/en-us/download)
 - Code editor (Visual Studio, VS Code, Rider, etc.)
 
 ## 🚀 How to Run
