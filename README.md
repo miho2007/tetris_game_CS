@@ -22,8 +22,8 @@ This project demonstrates **basic game logic**, **piece rotation**, **line clear
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/miho2007/tetris-C-game-.git
-cd tetris-C-game-
+git clone https://github.com/miho2007/tetris_game_CS.git
+cd tetris_game_CS
 ```
 
 2. **Build and run the project**
